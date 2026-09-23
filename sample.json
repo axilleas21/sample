@@ -1,34 +1,28 @@
 {
-  "users": [
+  "accounts": [
     {
       "name": "Achilleas",
+      "category": "Electricity",
+      "amount": "50",
+      "deadline": "2026-09-25",
       "email": "achilleasn21@gmail.com",
-      "accounts": [
-        {
-          "category": "Electricity",
-          "amount": "50",
-          "deadline": "2026-09-25",
-          "notification": "sent"
-        },
-        {
-          "category": "Water",
-          "amount": "30",
-          "deadline": "2026-10-01",
-          "notification": "sent"
-        }
-      ]
+      "notification": "sent"
+    },
+    {
+      "name": "Achilleas",
+      "category": "Water",
+      "amount": "30",
+      "deadline": "2026-10-01",
+      "email": "achilleasn21@gmail.com",
+      "notification": ""
     },
     {
       "name": "Dimitris",
-      "email": "achilleasg21@yahoo.com",
-      "accounts": [
-        {
-          "category": "Electricity",
-          "amount": "50",
-          "deadline": "2026-09-26",
-          "notification": ""
-        }
-      ]
+      "category": "TV",
+      "amount": "25",
+      "deadline": "2026-09-27",
+      "email": "dimitbakas@gmail.com",
+      "notification": ""
     }
   ]
 }
