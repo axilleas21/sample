@@ -15,6 +15,14 @@
       "deadline": "2026-10-01",
       "email": "achilleasn21@gmail.com",
       "notification": ""
+    },
+    {
+      "name": "Dimitris",
+      "category": "Electricity",
+      "amount": "50",
+      "deadline": "2026-09-26",
+      "email": "achilleasg21@yahoo.com",
+      "notification": ""
     }
   ]
 }
