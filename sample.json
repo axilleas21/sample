@@ -8,13 +8,13 @@
           "category": "Electricity",
           "amount": "50",
           "deadline": "2026-09-25",
-          "notification": ""
+          "notification": "sent"
         },
         {
           "category": "Water",
           "amount": "30",
           "deadline": "2026-10-01",
-          "notification": ""
+          "notification": "sent"
         }
       ]
     },
