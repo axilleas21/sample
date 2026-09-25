@@ -1,28 +1,20 @@
 {
-  "bills": [
+  "Λογαριασμοί": [
     {
-      "name": "Achilleas",
-      "category": "Electricity",
-      "amount": "50",
-      "deadline": "2026-09-25",
-      "email": "achilleasn21@gmail.com",
-      "notification": "sent"
+      "Όνομα": "Αχιλλέας",
+      "Κατηγορία": "Ρεύμα",
+      "Ποσό": "50",
+      "Λήξη": "2026-09-25",
+      "Email": "achilleasn21@gmail.com",
+      "Κατάσταση Ειδοποίησης": "Ειδοποίηση - Στάλθηκε"
     },
     {
-      "name": "Achilleas",
-      "category": "Water",
-      "amount": "30",
-      "deadline": "2026-10-01",
-      "email": "achilleasn21@gmail.com",
-      "notification": ""
-    },
-    {
-      "name": "Dimitris",
-      "category": "TV",
-      "amount": "25",
-      "deadline": "2026-09-27",
-      "email": "dimitbakas@gmail.com",
-      "notification": ""
+      "Όνομα": "Αχιλλέας",
+      "Κατηγορία": "Νερό",
+      "Ποσό": "30",
+      "Λήξη": "2026-10-01",
+      "Email": "achilleasn21@gmail.com",
+      "Κατάσταση Ειδοποίησης": "Ειδοποίηση - "
     }
   ]
 }
